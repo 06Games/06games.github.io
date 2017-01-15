@@ -3,11 +3,13 @@
 	<head>
     <meta charset="UTF-8">
     <title>06Games - GitHub</title>
+	<link rel="icon" type="image/x-icon" href="asset\favicon.ico"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="style.css?v=2a30f912062433b1be4ab24ce2edf9b6a16632b6">
 	<link rel="stylesheet" href="bouton.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	</head>
 	
 	<style>
@@ -15,22 +17,64 @@
 			color: #606c71;
 			font-size: medium;
 		}
+		.som{
+			border: 1px solid #a2a9b1;
+			text-align: center;
+			font-variant: small-caps;
+		}
+		.sub{
+			margin-left: 150px;
+			font-size: 80%;
+			font-family: Verdana, sans-serif;
+		}
+		.plat{
+			font-size: 90%;
+		}
+		/** Back to top **/
+		.backtotop {
+		position: fixed;
+		right: 50px;
+		bottom: 20px;
+		}
+		.backtotop:hover {
+		-webkit-transition: all 0.3s ease; transition: all 0.3s linear;
+		-webkit-transform: translateY(-10px);
+		-moz-transform: translateY(-10px);
+		-ms-transform: translateY(-10px);
+		-o-transform: translateY(-10px);
+		transform: translateY(-10px);
+		}
 	</style>
 	
 	<body>
+		<a class='backtotop' href='#'><img src='asset\hautdepage.png'/></a>
 		<section class="page-header">
 			<h1 class="project-name">06Games</h1>
 			<h2 class="project-tagline">Le site GitHub de 06Games</h2> 
-			<a href="https://06games.github.io/" class="btn">Accueil</a>
+			<a href="index.html" class="btn">Accueil</a>
 		</section>
 
 		<section class="main-content">
-			<h1 id="instal">Instalation</h1>
+			<nav class="som">
+				<b style="font-size:175%;">Sommaire</b>
+					<p class="prin"><a href="#instal">I. Instalation</a></p>
+						<p class="plat"><a>Pc</a></p>
+							<p class="sub"><a href="#Win10">1. Windows 10</a></p>
+							<p class="sub"><a href="#Win8">2. Windows 8.1</a></p>
+						<p class="plat"><a>Mobile</a></p>
+							<p class="sub"><a href="#W10M">1. Windows 10 Mobile</a></p>
+							<p class="sub"><a href="#WP8">2. Windows Phone 8.1</a></p>
+							<!--<p class="sub"><a href="#Android">3. Android</a></p>-->
+			</nav>
+			
+			<div><h1 id="instal">Instalation</h1>
 				<h2>Pc</h2>
-					<h3>Windows 10</h3>
+					<h3 id="Win10">Windows 10</h3>
 						<p class="texte">1. <a href="https://www.microsoft.com/store/apps/9nblggh4qtfx">Installeur</a></p>
 						<p class="texte">2. <a href="was-installer://1977458.oayolv-2">App v1.0.0.1</a></p>
-					<h3>Windows 8.1</h3>
+						<p class="texte">Bravo !!!</p>
+						<img style="border: 3px solid #ccc;" src="asset\Win 10\bravo.png">
+					<h3 id="Win8">Windows 8.1</h3>
 						<h4>I. Certificat</h4>
 							<p class="texte">Extraire le zip</p>
 							<img style="border: 3px solid #ccc;" src="asset\Win 8.1\extraction.png">
@@ -43,11 +87,23 @@
 							<img style="border: 3px solid #ccc;" src="asset\Win 8.1\R et Y.png">
 							<p class="texte">Le Certificat est installé</p>
 						<h4>II. Application</h4>
-				<h2>Mobile</h2>
-					<h3>Windows 10 Mobile</h3>
+							<p class="texte">1. <a href="https://github.com/06Games/Jeu-Dev/raw/App/Win%208.1/Games.StoreApp-v1.0.0.0.zip">App v1.0.0.0</a></p>
+							<p>2. Debloqué le package dans les propriété</p>
+							<img style="border: 3px solid #ccc;" src="asset\Win 8.1\app0.jpg">
+							<p>3. Cliquez-droit sur Add-AppDevPackage1.ps1 et selectionner “Run with PowerShell”</p>
+							<img style="border: 3px solid #ccc;" src="asset\Win 8.1\app1.png">
+							<p>4. Pressez Entré</p>
+							<img style="border: 3px solid #ccc;" src="asset\Win 8.1\app2.png">
+							<p>5. Tappez R puis Cliquez sur Fermé</p>
+							<img style="border: 3px solid #ccc;" src="asset\Win 8.1\app3.jpg">
+							<p>6. Pressez Entré</p>
+							<img style="border: 3px solid #ccc;" src="asset\Win 8.1\app4.jpg">
+							<p>Bravo !!!</p>
+				<h2 id="mobile">Mobile</h2>
+					<h3 id="W10M">Windows 10 Mobile</h3>
 						<p class="texte">1. <a href="https://www.microsoft.com/store/apps/9nblggh4qtfx">Installeur</a></p>
 						<p class="texte">2. <a href="was-installer://1977458.oayolv-2">App v1.0.0.1</a></p>
-					<h3>Windows Phone 8.1</h3>
+					<h3 id="WP8">Windows Phone 8.1</h3>
 						<h4>I. Certificat
 							<p class="texte">1. <a href="https://goo.gl/SWvY68">Telechargement</a></p>
 							<p class="texte">2. Cliquer sur ouvrir</p>
@@ -63,11 +119,31 @@
 							<img style="border: 3px solid #ccc; width: 250px;" src="asset\WP8.1\installer app WP8.png">
 							<p class="texte">L'Application est installé</p>
 							<img style="border: 3px solid #ccc; width: 250px;" src="asset\WP8.1\app installer.png">
-				
+			</div>
+			
 			<footer class="site-footer">
 				<span class="site-footer-owner">Cette page est maintenu par <a href="https://github.com/06Games">06Games</a>.</span>
 				<span class="site-footer-credits">Cette page est hébergé par <a href="https://pages.github.com">GitHub Pages</a>.</span>
 			</footer>
 		</section>
 	</body>
+	<script>
+		jQuery(document).ready(function() {
+		var offset = 390;
+		var duration = 500;
+		jQuery(window).scroll(function() {
+		if (jQuery(this).scrollTop() > offset) {
+		jQuery('.backtotop').fadeIn(duration);
+		} else {
+		jQuery('.backtotop').fadeOut(duration);
+		}
+		});
+
+		jQuery('.backtotop').click(function(event) {
+		event.preventDefault();
+		jQuery('html, body').animate({scrollTop: 0}, duration);
+		return false;
+		})
+		});
+	</script>
 </html>
