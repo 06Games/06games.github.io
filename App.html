@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="fr">
 	<head>
     <meta charset="UTF-8">
     <title>06Games - GitHub</title>
@@ -44,6 +44,10 @@
 		-o-transform: translateY(-10px);
 		transform: translateY(-10px);
 		}
+		#masaff{
+			color: grey;
+			text-decoration: none;
+		}
 	</style>
 	
 	<body>
@@ -56,26 +60,33 @@
 
 		<section class="main-content">
 			<nav class="som">
-				<b style="font-size:175%;">Sommaire</b>
-					<p class="prin"><a href="#instal">I. Instalation</a></p>
-						<p class="plat"><a>Pc</a></p>
+				<b style="font-size:175%;" id="som">Sommaire</b> <a id="masaff"onclick="javascript:visibilite('nav'); return false;" >[Masquer/Afficher]</a>
+				<div id="nav">
+					<p class="prin"><a href="#instal">I. Instalation</a>
+						<p class="plat"><a>Pc</a>
 							<p class="sub"><a href="#Win10">1. Windows 10</a></p>
 							<p class="sub"><a href="#Win8">2. Windows 8.1</a></p>
-						<p class="plat"><a>Mobile</a></p>
+						</p>
+						<p class="plat"><a>Mobile</a>
 							<p class="sub"><a href="#W10M">1. Windows 10 Mobile</a></p>
 							<p class="sub"><a href="#WP8">2. Windows Phone 8.1</a></p>
 							<!--<p class="sub"><a href="#Android">3. Android</a></p>-->
+						</p>
+					</p>
+				</div>
 			</nav>
 			
 			<div><h1 id="instal">Instalation</h1>
-				<h2>Pc</h2>
-					<h3 id="Win10">Windows 10</h3>
+				<h2>Pc
+					<h3 id="Win10">Windows 10
 						<p class="texte">1. <a href="https://www.microsoft.com/store/apps/9nblggh4qtfx">Installeur</a></p>
 						<p class="texte">2. <a href="was-installer://1977458.oayolv-2">App v1.0.0.1</a></p>
 						<p class="texte">Bravo !!!</p>
 						<img style="border: 3px solid #ccc;" src="asset\Win 10\bravo.png">
-					<h3 id="Win8">Windows 8.1</h3>
-						<h4>I. Certificat</h4>
+					</h3>
+					
+					<h3 id="Win8">Windows 8.1
+						<h4>I. Certificat
 							<p class="texte">Extraire le zip</p>
 							<img style="border: 3px solid #ccc;" src="asset\Win 8.1\extraction.png">
 							<p class="texte">Cliquer droit sur Add-RootCertificate.ps1 et sélectionner “Run with PowerShell”</p>
@@ -86,7 +97,8 @@
 							<p class="texte">Faites R puis Entré. Faites Y puis Entré.</p>
 							<img style="border: 3px solid #ccc;" src="asset\Win 8.1\R et Y.png">
 							<p class="texte">Le Certificat est installé</p>
-						<h4>II. Application</h4>
+						</h4>
+						<h4>II. Application
 							<p class="texte">1. <a href="https://github.com/06Games/Jeu-Dev/raw/App/Win%208.1/Games.StoreApp-v1.0.0.0.zip">App v1.0.0.0</a></p>
 							<p>2. Debloqué le package dans les propriété</p>
 							<img style="border: 3px solid #ccc;" src="asset\Win 8.1\app0.jpg">
@@ -99,11 +111,16 @@
 							<p>6. Pressez Entré</p>
 							<img style="border: 3px solid #ccc;" src="asset\Win 8.1\app4.jpg">
 							<p>Bravo !!!</p>
-				<h2 id="mobile">Mobile</h2>
-					<h3 id="W10M">Windows 10 Mobile</h3>
+						</h4>
+					</h3>
+				</h2>
+					
+				<h2 id="mobile">Mobile
+					<h3 id="W10M">Windows 10 Mobile
 						<p class="texte">1. <a href="https://www.microsoft.com/store/apps/9nblggh4qtfx">Installeur</a></p>
 						<p class="texte">2. <a href="was-installer://1977458.oayolv-2">App v1.0.0.1</a></p>
-					<h3 id="WP8">Windows Phone 8.1</h3>
+					</h3>
+					<h3 id="WP8">Windows Phone 8.1
 						<h4>I. Certificat
 							<p class="texte">1. <a href="https://goo.gl/SWvY68">Telechargement</a></p>
 							<p class="texte">2. Cliquer sur ouvrir</p>
@@ -111,7 +128,8 @@
 							<p class="texte">3. Cliquer sur ajouter</p>
 							<img style="border: 3px solid #ccc; width: 250px;" src="asset\WP8.1\installer certif WP8.png">
 							<p class="texte">Le certificat est installé</p>
-						<h4>II. Application</h4>
+						</h4>
+						<h4>II. Application
 							<p class="texte">1. <a href="https://github.com/06Games/Jeu-Dev/raw/App/WP%208.1/Games.WindowsPhone_1.0.0.0_AnyCPU.appx">App v1.0.0.0</a></p>
 							<p class="texte">2. Cliquer sur ouvrir</p>
 							<img style="border: 3px solid #ccc; width: 250px;" src="asset\WP8.1\ouvrir app WP8.png">
@@ -119,6 +137,9 @@
 							<img style="border: 3px solid #ccc; width: 250px;" src="asset\WP8.1\installer app WP8.png">
 							<p class="texte">L'Application est installé</p>
 							<img style="border: 3px solid #ccc; width: 250px;" src="asset\WP8.1\app installer.png">
+						</h4>
+					</h3>
+				</h2>
 			</div>
 			
 			<footer class="site-footer">
@@ -145,5 +166,17 @@
 		return false;
 		})
 		});
+		
+		function visibilite(thingId)
+		{
+		var targetElement;
+		targetElement = document.getElementById(thingId) ;
+		if (targetElement.style.display == "none")
+		{
+		targetElement.style.display = "" ;
+		} else {
+		targetElement.style.display = "none" ;
+		}
+		}
 	</script>
 </html>
