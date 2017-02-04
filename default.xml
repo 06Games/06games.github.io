@@ -23,10 +23,20 @@
                 color: #333333;
                 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
                 line-height: 1.25;
-                 margin-bottom: 16px;
+                margin-bottom: 16px;
                 margin-top: 24px;
                 padding-bottom: 0.3em;
-            }
+                }
+
+            .ol{
+                -webkit-text-size-adjust: 100%;
+                box-sizing: border-box; color: #333333;
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+                font-size: 16px;
+                margin-bottom: 16px;
+                margin-top: 0px;
+                padding-left: 2em;
+                }
 
         </style>
 
@@ -52,7 +62,7 @@
             <title>La 0.16 Est Sortie !</title>
             <description>
                 &lt;h2 class="h2" &gt; Modification: &lt;/h2&gt;
-                &lt;ol style=&quot;-webkit-text-size-adjust: 100%; box-sizing: border-box; color: #333333; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin-bottom: 16px; margin-top: 0px; padding-left: 2em;&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;Nouveau Menu d&#39;Option (il n&#39;y a rien)&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; margin-top: 0.25em;&quot;&gt;Quelque texture ajouter au Niveau 1&lt;/li&gt;&lt;/ol&gt;
+                &lt;ol class="ol" &gt;Quelque texture ajouter au Niveau 1&lt;/li&gt;&lt;/ol&gt;
                 &lt;div&gt;&lt;span style=&quot;color: #333333; font-family: , &amp;quot;blinkmacsystemfont&amp;quot; , &amp;quot;segoe ui&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;arial&amp;quot; , sans-serif , &amp;quot;apple color emoji&amp;quot; , &amp;quot;segoe ui emoji&amp;quot; , &amp;quot;segoe ui symbol&amp;quot;;&quot;&gt;&lt;span style=&quot;-webkit-text-size-adjust: 100%;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
                 &lt;div&gt;&lt;br style=&quot;-webkit-text-size-adjust: auto; color: #333333; font-family: &#39;Helvetica Neue Light&#39;, HelveticaNeue-Light, &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif; font-size: 14px; text-align: justify;&quot; /&gt;&lt;h2 style=&quot;-webkit-text-size-adjust: auto; border-bottom-color: rgb(238, 238, 238); border-bottom-style: solid; border-bottom-width: 1px; box-sizing: border-box; color: #333333; font-family: &#39;Helvetica Neue Light&#39;, HelveticaNeue-Light, &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif; font-weight: bolder; line-height: 1.25; margin: 24px 0px 16px; padding: 0px 0px 0.3em; position: relative; text-align: justify;&quot;&gt;Téléchargement :&lt;/h2&gt;&lt;div style=&quot;-webkit-text-size-adjust: auto; box-sizing: border-box; color: #333333; font-family: &#39;Helvetica Neue Light&#39;, HelveticaNeue-Light, &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif; font-size: 16px; margin: 0px 0px 16px; outline: none; padding: 0px; text-align: justify;&quot;&gt;&lt;a href=&quot;https://github.com/06Games/Jeu/releases/tag/0.16&quot;&gt;GitHub&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
             </description>
