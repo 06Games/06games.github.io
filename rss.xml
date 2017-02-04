@@ -20,8 +20,8 @@
 
         <item>       <!-- 0.16 -->
             <title>Enfin un flux RSS !</title>
-            <link>http://monsiteweb.com/rss.html</link>
-            <guid isPermaLink="true">http://monsiteweb.com/rss.html</guid>
+            <link>https://06games.github.io/rss.xml</link>
+            <guid isPermaLink="true">https://06games.github.io/rss.xml</guid>
             <description>Un flux RSS a été installé sur mon site. Vous pouvez le consulter avec votre logiciel favori.</description>
             <pubDate>Wed, 3 Aug 2005 15:17:00 GMT</pubDate>
         </item>
