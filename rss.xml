@@ -11,10 +11,7 @@
             <title>La 0.2 est de sortie</title>
             <link>https://06games.github.io/rss.xml</link>
             <guid isPermaLink="true">https://06games.github.io/rss.xml</guid>
-            <description>Modification:
-            test
-            fr
-            </description>
+            <description>Modification:</description>
             <pubDate>Wed, 1 Feb 2017 16:00:00 GMT</pubDate>
         </item>
        
@@ -23,7 +20,7 @@
             <title>La 0.16 Est Sortie !</title>
             <link>https://06games.github.io/rss.xml</link>
             <guid isPermaLink="true">https://06games.github.io/rss.xml</guid>
-            <description>Un flux RSS a été installé sur mon site. Vous pouvez le consulter avec votre logiciel favori.</description>
+            <description></description>
             <pubDate>Sat, 25 Jan 2017 16:00:00 GMT</pubDate>
         </item>
        
