@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rss version="2.0">
+    <channel>
+   
+        <title>Mon site web</title>
+        <link>http://monsiteweb.com</link>
+        <description>Les news de mon site web</description>
+       
+        <item>
+            <title>Un site web pour partager ses signets</title>
+            <link>http://del.icio.us</link>
+            <guid isPermaLink="true">http://del.icio.us</guid>
+            <description>Le site http://del.icio.us permet de partager vos signets et d'y acc�der o� que vous soyez.</description>
+            <pubDate>Wed, 5 Aug 2005 19:30:00 GMT</pubDate>
+        </item>
+       
+        <item>
+            <title>Enfin un flux RSS !</title>
+            <link>http://monsiteweb.com/rss.html</link>
+            <guid isPermaLink="true">http://monsiteweb.com/rss.html</guid>
+            <description>Un flux RSS a été installé sur mon site. Vous pouvez le consulter avec votre logiciel favori.</description>
+            <pubDate>Wed, 3 Aug 2005 15:17:00 GMT</pubDate>
+        </item>
+       
+    </channel>
+</rss>
