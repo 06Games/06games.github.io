@@ -5,7 +5,7 @@
         <atom:id>tag:blogger.com,1999:blog-1550431503678645524</atom:id>
         <lastBuildDate>Sat, 04 Feb 2017 11:12:29 +0000</lastBuildDate>
         <category>MAJ</category><category>Unity3D</category>
-        <title>06Games | Général</title>
+        <title>06Games | RSS</title>
         <description></description>
         <link>http://06gamesgeneral.blogspot.com/</link>
         <managingEditor>Evan Galli</managingEditor>
@@ -44,9 +44,9 @@
             .br{
                 -webkit-text-size-adjust: auto;
                 color: #333333;
-                 font-family: &#39;Helvetica Neue Light&#39;, HelveticaNeue-Light, &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif;
-                  font-size: 14px;
-                   text-align: justify;
+                font-family: &#39;Helvetica Neue Light&#39;, HelveticaNeue-Light, &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif;
+                font-size: 14px;
+                text-align: justify;
                    
                 }
         </style>
