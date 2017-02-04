@@ -73,16 +73,8 @@
             <title>La 0.16 Est Sortie !</title>
             <description>
                 &lt;h2 class="h2" &gt; Modification: &lt;/h2&gt;
-                &lt;ol class="ol" &gt;Quelque texture ajouter au Niveau 1&lt;/li&gt;&lt;/ol&gt;
-                &lt;div&gt;
-                    &lt;span class="span" &gt;
-                        &lt;span style="-webkit-text-size-adjust: 100%;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
-                    &lt;div&gt;
-                        &lt;br class="br" /&gt;
-                        &lt;h2 class="h2" &gt;
-                        &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.16"&gt; GitHub &lt;/a&gt;
-                    &lt;/div&gt;
-                &lt;/div&gt;
+                &lt;p &gt; 1. Quelque texture ajouter au Niveau 1 &lt;/p&gt;
+                &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.16"&gt; GitHub &lt;/a&gt;
             </description>
             <link>http://06gamesgeneral.blogspot.com/2017/01/la-016-est-sortie.html</link>
             <author>Evan Galli</author>
