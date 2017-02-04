@@ -9,9 +9,10 @@
        
         <item>
             <title>Un site web pour partager ses signets</title>
-            <link>http://del.icio.us</link>
-            <guid isPermaLink="true">http://del.icio.us</guid>
-            <description>Le site http://del.icio.us permet de partager vos signets et d'y acc�der o� que vous soyez.</description>
+            <link>/RSS/0.2.xml</link>
+            <guid isPermaLink="true">/RSS/0.2.xml</guid>
+            <description>C'est la description</description>
+            <h2 xmlns="http://www.w3.org/1999/xhtml" xml:base="https://06gamesgeneral.blogspot.fr/feeds/posts/default?alt=rss">Modification:</h2>
             <pubDate>Wed, 5 Aug 2005 19:30:00 GMT</pubDate>
         </item>
        
