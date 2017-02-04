@@ -9,13 +9,11 @@
 
         <item>       <!-- 0.2 -->
             <title>La 0.2 est de sortie</title>
-            <link></link>
-            <guid isPermaLink="true"></guid>
-            
+            <link>https://06games.github.io/rss.xml</link>
+            <guid isPermaLink="true">https://06games.github.io/rss.xml</guid>
             <description>
                 <h2>Modification:</h2>
             </description>
-
             <pubDate>Sat, 4 Feb 2017 08:03:00 GMT</pubDate>
         </item>
        
