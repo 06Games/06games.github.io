@@ -66,16 +66,19 @@
                 ]]>
                 
                 &lt;h2 class="h2" &gt; Modification: &lt;/h2&gt;
-                &lt;ul &gt;
-                    &lt;li &gt; Ajout de Musique en Arrière Plan dans l'Accueil et le Menu Solo &lt;/li &gt;
-                    &lt;li &gt; La Camera suis le joueur dans le Menu Solo (avant en cliquant plusieurs fois sur la flèche gauche ou droite ,on pouvait faire quitter le joueur du champs de vision &lt;/li &gt;
-                    &lt;li &gt; Les touches de contrôle par défaut ont été changer par:  
-                        &lt;ul &gt;
-                            &lt;li &gt; z, q, s et d &lt;/li &gt;
-                            &lt;li &gt; flèche haut, gauche, bas et droite &lt;/li &gt;
-                        &lt;/ul &gt;
-                    &lt;/li &gt;
-                    &lt;li &gt; Sauvegarde automatique du niveau et de la langue &lt;/li &gt;
+                    &lt;ul &gt;
+                        &lt;li &gt; Ajout de Musique en Arrière Plan dans l'Accueil et le Menu Solo &lt;/li &gt;
+                        &lt;li &gt; La Camera suis le joueur dans le Menu Solo (avant en cliquant plusieurs fois sur la flèche gauche ou droite ,on pouvait faire quitter le joueur du champs de vision &lt;/li &gt;
+                        &lt;li &gt; Les touches de contrôle par défaut ont été changer par:  
+                            &lt;ul &gt;
+                                &lt;li &gt; z, q, s et d &lt;/li &gt;
+                                &lt;li &gt; flèche haut, gauche, bas et droite &lt;/li &gt;
+                            &lt;/ul &gt;
+                        &lt;/li &gt;
+                        &lt;li &gt; Sauvegarde automatique du niveau et de la langue &lt;/li &gt;
+                    &lt;/ul &gt;
+                &lt;h2 class="h2" &gt; Telechargement: &lt;/h2 &gt;
+                    &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20.1" &gt; GitHub &lt;/a &gt;
             </description>
             <link><!--http://06gamesgeneral.blogspot.com/2017/02/la-02-est-de-sortie.html--></link>
             <author>Evan Galli</author>
