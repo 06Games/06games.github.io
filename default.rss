@@ -54,6 +54,36 @@
             </style>
 
     <!-- Articles -->
+        <item>      <!-- Mise à jour du site -->
+            <guid isPermaLink="false"></guid>
+            <pubDate>Wed, 08 Feb 2017 19:47:00 +0000</pubDate>
+            <atom:updated>2017-02-04T08:03:29.591+01:00</atom:updated>
+            <category domain="http://www.blogger.com/atom/ns#">MAJ</category>
+            <title>Mise à jour du site</title>
+            <description>
+            <![CDATA[ 
+                    <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/MAJ-web.png" />
+                ]]>
+                
+                &lt;h2 class="h2" &gt; Modification: &lt;/h2&gt;
+                    &lt;ul &gt;
+                        &lt;li &gt; Ajout de Musique en Arrière Plan dans l'Accueil et le Menu Solo &lt;/li &gt;
+                        &lt;li &gt; La Camera suis le joueur dans le Menu Solo (avant en cliquant plusieurs fois sur la flèche gauche ou droite ,on pouvait faire quitter le joueur du champs de vision &lt;/li &gt;
+                        &lt;li &gt; Les touches de contrôle par défaut ont été changer par:  
+                            &lt;ul &gt;
+                                &lt;li &gt; z, q, s et d &lt;/li &gt;
+                                &lt;li &gt; flèche haut, gauche, bas et droite &lt;/li &gt;
+                            &lt;/ul &gt;
+                        &lt;/li &gt;
+                        &lt;li &gt; Sauvegarde automatique du niveau et de la langue &lt;/li &gt;
+                    &lt;/ul &gt;
+                &lt;h2 class="h2" &gt; Telechargement: &lt;/h2 &gt;
+                    &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20.1" &gt; GitHub &lt;/a &gt;
+            </description>
+            <link><!--http://06gamesgeneral.blogspot.com/2017/02/la-02-est-de-sortie.html--></link>
+            <author>Evan Galli</author>
+            <thr:total>0</thr:total>
+            </item>
         <item>      <!-- 06Games App arrive sur iOS -->
             <guid isPermaLink="false"></guid>
             <pubDate>Sun, 12 Feb 2017 19:45:00 +0000</pubDate>
@@ -65,8 +95,8 @@
                     <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/ios.png" />
                 ]]>
                 
-                &lt;p &gt; Vous pouvez derénavant telecharger l'application 06Games sur iOS sur &lt;a href="http://apps.appshed.com/960444/"&gt; ce lien &lt;/a &gt; &lt;/p&gt;
-                &lt;p &gt; Vous pouvez aussi telecharger l'application pour les platforme &lt;a href ="https://06games.github.io/App" &gt; Windows et Android&lt;/a &gt; &lt;/p&gt;
+                &lt;p &gt; Vous pouvez derénavant telecharger l'application 06Games sur iOS sur &lt;a href="http://apps.appshed.com/960444/"&gt; ce lien &lt;/a &gt; &lt;/p &gt;
+                &lt;p &gt; Vous pouvez aussi telecharger l'application pour les platforme &lt;a href ="https://06games.github.io/App" &gt; Windows et Android&lt;/a &gt; &lt;/p &gt;
             </description>
             <link></link>
             <author>Evan Galli</author>
