@@ -54,6 +54,23 @@
             </style>
 
     <!-- Articles -->
+        <item>      <!-- 06Games App arrive sur iOS -->
+            <guid isPermaLink="false">tag:blogger.com,1999:blog-1550431503678645524.post-3928694408582143909</guid>
+            <pubDate>Sat, 21 Jan 2017 07:32:00 +0000</pubDate>
+            <atom:updated>2017-02-04T12:12:29.680+01:00</atom:updated>
+            <category domain="http://www.blogger.com/atom/ns#">Unity3D</category>
+            <title>06Games App arrive sur iOS</title>
+            <description>
+                <![CDATA[ 
+                    <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/ios.png" />
+                ]]>
+                
+                &lt;p &gt; Vous pouvez derénavant telecharger l'application 06Games sur iOS sur &lt;a &gt; ce lien &lt;p &gt; &lt;/p&gt;
+            </description>
+            <link>http://06gamesgeneral.blogspot.com/2017/02/changement-de-version-dunity-3d.html</link>
+            <author>Evan Galli</author>
+            <thr:total>0</thr:total>
+            </item> 
         <item>      <!-- La 0.2.1 Musicale -->
             <guid isPermaLink="false"></guid>
             <pubDate>Wed, 08 Feb 2017 19:47:00 +0000</pubDate>
