@@ -56,8 +56,8 @@
     <!-- Articles -->
         <item>      <!-- Mise à jour du site -->
             <guid isPermaLink="false"></guid>
-            <pubDate>Wed, 08 Feb 2017 19:47:00 +0000</pubDate>
-            <atom:updated>2017-02-04T08:03:29.591+01:00</atom:updated>
+            <pubDate>Wed, 15 Feb 2017 19:47:00 +0000</pubDate>
+            <atom:updated>2017-02-15T19:47:29.591+01:00</atom:updated>
             <category>MAJ-Site</category>
             <title>Mise à jour du site</title>
             <description>
@@ -65,9 +65,9 @@
                     <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/MAJ-web.png" />
                 ]]>
                 
-                &lt;p &gt; Le Site à été mis à jour, &lt;a href="evan.galli17.wixsite.com/06Games"&gt; voyez par vous même &lt;/a &gt; &lt;/p &gt;
+                &lt;p &gt; Le Site à été mis à jour, &lt;a href="https://evangalli17.wixsite.com/06games"&gt; voyez par vous même &lt;/a &gt; &lt;/p &gt;
             </description>
-            <link><!--http://06gamesgeneral.blogspot.com/2017/02/la-02-est-de-sortie.html--></link>
+            <link>https://evangalli17.wixsite.com/06games</link>
             <author>Evan Galli</author>
             <thr:total>0</thr:total>
             </item>
