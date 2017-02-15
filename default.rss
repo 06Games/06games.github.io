@@ -58,27 +58,14 @@
             <guid isPermaLink="false"></guid>
             <pubDate>Wed, 08 Feb 2017 19:47:00 +0000</pubDate>
             <atom:updated>2017-02-04T08:03:29.591+01:00</atom:updated>
-            <category domain="http://www.blogger.com/atom/ns#">MAJ</category>
+            <category>MAJ-Site</category>
             <title>Mise à jour du site</title>
             <description>
-            <![CDATA[ 
+                <![CDATA[ 
                     <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/MAJ-web.png" />
                 ]]>
                 
-                &lt;h2 class="h2" &gt; Modification: &lt;/h2&gt;
-                    &lt;ul &gt;
-                        &lt;li &gt; Ajout de Musique en Arrière Plan dans l'Accueil et le Menu Solo &lt;/li &gt;
-                        &lt;li &gt; La Camera suis le joueur dans le Menu Solo (avant en cliquant plusieurs fois sur la flèche gauche ou droite ,on pouvait faire quitter le joueur du champs de vision &lt;/li &gt;
-                        &lt;li &gt; Les touches de contrôle par défaut ont été changer par:  
-                            &lt;ul &gt;
-                                &lt;li &gt; z, q, s et d &lt;/li &gt;
-                                &lt;li &gt; flèche haut, gauche, bas et droite &lt;/li &gt;
-                            &lt;/ul &gt;
-                        &lt;/li &gt;
-                        &lt;li &gt; Sauvegarde automatique du niveau et de la langue &lt;/li &gt;
-                    &lt;/ul &gt;
-                &lt;h2 class="h2" &gt; Telechargement: &lt;/h2 &gt;
-                    &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20.1" &gt; GitHub &lt;/a &gt;
+                &lt;p &gt; Le Site à été mis à jour, &lt;a href="evan.galli17.wixsite.com/06Games"&gt; voyez par vous même &lt;/a &gt; &lt;/p &gt;
             </description>
             <link><!--http://06gamesgeneral.blogspot.com/2017/02/la-02-est-de-sortie.html--></link>
             <author>Evan Galli</author>
@@ -106,7 +93,7 @@
             <guid isPermaLink="false"></guid>
             <pubDate>Wed, 08 Feb 2017 19:47:00 +0000</pubDate>
             <atom:updated>2017-02-04T08:03:29.591+01:00</atom:updated>
-            <category domain="http://www.blogger.com/atom/ns#">MAJ</category>
+            <category>MAJ</category>
             <title>La 0.2.1 est Musicale</title>
             <description>
             <![CDATA[ 
@@ -128,7 +115,7 @@
                 &lt;h2 class="h2" &gt; Telechargement: &lt;/h2 &gt;
                     &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20.1" &gt; GitHub &lt;/a &gt;
             </description>
-            <link><!--http://06gamesgeneral.blogspot.com/2017/02/la-02-est-de-sortie.html--></link>
+            <link>https://github.com/06Games/Jeu/releases/tag/0.20.1</link>
             <author>Evan Galli</author>
             <thr:total>0</thr:total>
             </item>
@@ -136,7 +123,7 @@
             <guid isPermaLink="false">tag:blogger.com,1999:blog-1550431503678645524.post-5283694754596064669</guid>
             <pubDate>Wed, 01 Feb 2017 15:00:00 +0000</pubDate>
             <atom:updated>2017-02-04T08:03:29.591+01:00</atom:updated>
-            <category domain="http://www.blogger.com/atom/ns#">MAJ</category>
+            <category>MAJ</category>
             <title>La 0.2 est de sortie</title>
             <description>
             <![CDATA[ 
@@ -145,16 +132,16 @@
                 
             &lt;div style="-webkit-text-size-adjust: 100%; box-sizing: border-box; color: #333333; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin-bottom: 16px;"&gt;&lt;br /&gt;&lt;/div&gt;&lt;h2 style="-webkit-text-size-adjust: 100%; border-bottom-color: rgb(238, 238, 238); border-bottom-style: solid; border-bottom-width: 1px; box-sizing: border-box; cor: #333333; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;"&gt;Modification:&lt;/h2&gt;&lt;div style="-webkit-text-size-adjust: 100%; box-sizing: border-box; color: #333333; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin-bottom: 16px;"&gt;- Le Menu Option contient des options :&lt;/div&gt;&lt;ul style="-webkit-text-size-adjust: 100%; box-sizing: border-box; color: #333333; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin-bottom: 16px; margin-top: 0px; padding-left: 2em;"&gt;&lt;li style="box-sizing: border-box;"&gt;&lt;span style="box-sizing: border-box; font-weight: 600;"&gt;Graphiste&lt;/span&gt;&amp;nbsp; &lt;g-emoji alias="bar_chart" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4ca.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;📊&lt;/g-emoji&gt;&lt;ul style="box-sizing: border-box; margin-bottom: 0px; margin-top: 0px; padding-left: 2em;"&gt;&lt;li style="box-sizing: border-box;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Résolution&lt;/em&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Plein Écran&lt;/em&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Qualité&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;span style="box-sizing: border-box; font-weight: 600;"&gt;Audio&amp;nbsp;&lt;g-emoji alias="loud_sound" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f50a.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; font-weight: normal; line-height: 20px; vertical-align: middle;"&gt;🔊&lt;/g-emoji&gt;&lt;/span&gt;&lt;ul style="box-sizing: border-box; margin-bottom: 0px; margin-top: 0px; padding-left: 2em;"&gt;&lt;li style="box-sizing: border-box;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Config&lt;/em&gt;&amp;nbsp;(Mono, Stéréo, Surround)&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Musique&lt;/em&gt;&amp;nbsp;&lt;g-emoji alias="musical_note" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b5.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;🎵&lt;/g-emoji&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Effet&lt;/em&gt;&amp;nbsp;&lt;g-emoji alias="musical_score" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3bc.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;🎼&lt;/g-emoji&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Général&lt;/em&gt;&amp;nbsp;&lt;g-emoji alias="notes" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b6.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;🎶&lt;/g-emoji&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;span style="box-sizing: border-box; font-weight: 600;"&gt;Langues&amp;nbsp;&lt;g-emoji alias="black_flag" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f4.png" ios-version="9.1" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; font-weight: normal; line-height: 20px; vertical-align: middle;"&gt;🏴&lt;/g-emoji&gt;&lt;/span&gt;&lt;ul style="box-sizing: border-box; margin-bottom: 0px; margin-top: 0px; padding-left: 2em;"&gt;&lt;li style="box-sizing: border-box;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Français&lt;/em&gt;&amp;nbsp;&lt;g-emoji alias="fr" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f7.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;🇫🇷&lt;/g-emoji&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Anglais&lt;/em&gt;&amp;nbsp;&lt;g-emoji alias="gb" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1e7.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;🇬🇧&lt;/g-emoji&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Allemand&lt;/em&gt;&amp;nbsp;&lt;g-emoji alias="de" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1ea.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;🇩🇪&lt;/g-emoji&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Italien&lt;/em&gt;&amp;nbsp;&lt;g-emoji alias="it" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f9.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;🇮🇹&lt;/g-emoji&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Espagnole&lt;/em&gt;&amp;nbsp;&lt;g-emoji alias="es" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1f8.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;🇪🇸&lt;/g-emoji&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style="-webkit-text-size-adjust: 100%; box-sizing: border-box; color: #333333; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin-bottom: 16px;"&gt;- Exp, Niveau, Or ajouté&lt;/div&gt;&lt;div style="-webkit-text-size-adjust: 100%; box-sizing: border-box; color: #333333; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin-bottom: 16px;"&gt;- Sauvegarde Automatique&lt;/div&gt;&lt;div style="-webkit-text-size-adjust: 100%; box-sizing: border-box; color: #333333; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin-bottom: 16px;"&gt;- Le Bouton Continuer du Menu Pause fonctionne&lt;/div&gt;&lt;div style="-webkit-text-size-adjust: 100%; box-sizing: border-box; color: #333333;
             font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin-bottom: 16px;"&gt;- Le Numéro de Version est affiche au bas de l’écran d&#39;accueil&lt;/div&gt;&lt;blockquote style="-webkit-text-size-adjust: 100%; border-left-color: rgb(221, 221, 221); border-left-style: solid; border-left-width: 0.25em; box-sizing: border-box; color: #777777; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin: 0px 0px 16px; padding: 0px 1em;"&gt;&lt;div style="box-sizing: border-box;"&gt;Les Boutons pour se donner de l&#39;exp et or sont temporaire&lt;/div&gt;&lt;/blockquote&gt;&lt;br /&gt;&lt;h2 style="border-bottom-color: rgb(238, 238, 238); border-bottom-style: solid; border-bottom-width: 1px; box-sizing: border-box; color: #333333; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;"&gt;Téléchargement :&lt;/h2&gt;&lt;div style="box-sizing: border-box; color: #333333; font-size: 16px; margin-bottom: 16px;"&gt;&lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20"&gt;GitHub&lt;/a&gt;&lt;/div&gt;</description>
-            <link>http://06gamesgeneral.blogspot.com/2017/02/la-02-est-de-sortie.html</link>
+            <link>https://github.com/06Games/Jeu/releases/tag/0.20</link>
             <author>Evan Galli</author>
             <thr:total>0</thr:total>
             </item>
 
         <item>      <!-- La 0.16 Est Sortie ! -->
-            <guid isPermaLink="false">tag:blogger.com,1999:blog-1550431503678645524.post-8446925143281341487</guid>
+            <guid isPermaLink="false"></guid>
             <pubDate>Wed, 25 Jan 2017 15:00:00 +0000</pubDate>
             <atom:updated>2017-02-04T08:34:42.302+01:00</atom:updated>
-            <category domain="http://www.blogger.com/atom/ns#">MAJ</category>
+            <category>MAJ</category>
             <title>La 0.16 Est Sortie !</title>
             <description>
                 <![CDATA[ 
@@ -165,7 +152,7 @@
                 &lt;p class="sous" style="margin-left: 25px;" &gt; 1. Quelque texture ajouter au Niveau 1 &lt;/p&gt;
                 &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.16"&gt; GitHub &lt;/a&gt;
             </description>
-            <link>http://06gamesgeneral.blogspot.com/2017/01/la-016-est-sortie.html</link>
+            <link>https://github.com/06Games/Jeu/releases/tag/0.16</link>
             <author>Evan Galli</author>
             <thr:total>0</thr:total>
             </item>
@@ -174,7 +161,7 @@
             <guid isPermaLink="false">tag:blogger.com,1999:blog-1550431503678645524.post-4064640965142608329</guid>
             <pubDate>Sat, 21 Jan 2017 15:00:00 +0000</pubDate>
             <atom:updated>2017-02-04T08:34:54.699+01:00</atom:updated>
-            <category domain="http://www.blogger.com/atom/ns#">MAJ</category>
+            <category>MAJ</category>
             <title>La 0.15 Est Ici !</title>
             <description>&lt;h2 class="h2" &gt; Modification: &lt;/h2&gt;
             <![CDATA[ 
@@ -192,7 +179,7 @@
             <guid isPermaLink="false">tag:blogger.com,1999:blog-1550431503678645524.post-3928694408582143909</guid>
             <pubDate>Sat, 21 Jan 2017 07:32:00 +0000</pubDate>
             <atom:updated>2017-02-04T12:12:29.680+01:00</atom:updated>
-            <category domain="http://www.blogger.com/atom/ns#">Unity3D</category>
+            <category>Unity3D</category>
             <title>Changement de Version d&#39;Unity 3D</title>
             <description>
                 <![CDATA[ 
