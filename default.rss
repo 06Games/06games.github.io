@@ -51,6 +51,18 @@
             .sous{
                 margin-left: 25px;
             }
+            .blockquote{
+                -webkit-text-size-adjust: 100%;
+                border-left-color: rgb(221, 221, 221);
+                border-left-style: solid;
+                border-left-width: 0.25em;
+                box-sizing: border-box;
+                color: #777777;
+                font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; 
+                font-size: 16px;
+                margin: 0px 0px 16px;
+                padding: 0px 1em;
+            }
             </style>
 
     <!-- Articles -->
@@ -150,11 +162,7 @@
                 &lt;/li&gt;
                 &lt;li &gt;Langues 🏴
                     &lt;ul &gt;
-                        &lt;li &gt; Français 
-                            &lt;g-emoji alias="fr" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f7.png" ios-version="6.0"&gt;
-                                &lt;img class="emoji" alt=":fr:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f7.png"&gt; 
-                            &lt;/g-emoji&gt; 
-                        &lt;/li &gt;
+                        &lt;li &gt; Français 🇫🇷 &lt;/li &gt;
                         &lt;li &gt; Anglais 🇬🇧 &lt;/li &gt;
                         &lt;li &gt; Allemand 🇩🇪 &lt;/li &gt;
                         &lt;li &gt; Italien 🇮🇹 &lt;/li &gt;
@@ -167,7 +175,7 @@
             &lt;p &gt;- Sauvegarde Automatique &lt;/p &gt;
             &lt;p &gt;- Le Bouton Continuer du Menu Pause fonctionne &lt;/p &gt;
             &lt;p &gt;- Le Numéro de Version est affiche au bas de l’écran d'accueil &lt;/p &gt;
-            &lt;blockquote <!-- style="-webkit-text-size-adjust: 100%; border-left-color: rgb(221, 221, 221); border-left-style: solid; border-left-width: 0.25em; box-sizing: border-box; color: #777777; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin: 0px 0px 16px; padding: 0px 1em;"&gt;&lt;div style="box-sizing: border-box;" -->&gt; Les Boutons pour se donner de l'exp et or sont temporaire &lt;/blockquote&gt;
+            &lt;blockquote class="blockquote" &gt; Les Boutons pour se donner de l'exp et or sont temporaire &lt;/blockquote&gt;
             &lt;h2 class="h2" &gt; Telechargement &lt;/h2&gt;
             &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20"&gt; GitHub &lt;/a&gt;
             </description>
