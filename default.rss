@@ -62,6 +62,7 @@
                 font-size: 16px;
                 margin: 0px 0px 16px;
                 padding: 0px 1em;
+                border-left: 0.25em solid #ddd;
             }
             </style>
 
@@ -176,9 +177,7 @@
             &lt;p &gt;- Le Bouton Continuer du Menu Pause fonctionne &lt;/p &gt;
             &lt;p &gt;- Le Numéro de Version est affiche au bas de l’écran d'accueil &lt;/p &gt;
             &lt;blockquote class="blockquote" &gt; Les Boutons pour se donner de l'exp et or sont temporaire &lt;/blockquote&gt;
-            &lt;blockquote &gt;
-                &lt;p &gt; Les Boutons pour se donner de l'exp et or sont temporaire &lt;/p &gt;
-            &lt;/blockquote &gt;
+
             &lt;h2 class="h2" &gt; Telechargement : &lt;/h2&gt;
             &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20"&gt; GitHub &lt;/a&gt;
             </description>
