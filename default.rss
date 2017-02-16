@@ -140,16 +140,32 @@
                      &lt;/ul&gt;
                 &lt;/li&gt;
             
-               &lt;li &gt; Audio 🔊
-                  &lt;ul &gt;
-                     &lt;li &gt; Config (Mono, Stéréo, Surround) &lt;/li&gt;
-                     &lt;li &gt; Musique 🎵 &lt;/li&gt;
-                     &lt;li &gt; Effet 🎼 &lt;/li&gt;
-                     &lt;li &gt; Général 🎶 &lt;/li&gt;
-                  &lt;/ul&gt;
-               &lt;/li&gt;
-               &lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;span style="box-sizing: border-box; font-weight: 600;"&gt;Langues&amp;nbsp;&lt;g-emoji alias="black_flag" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3f4.png" ios-version="9.1" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; font-weight: normal; line-height: 20px; vertical-align: middle;"&gt;🏴&lt;/g-emoji&gt;&lt;/span&gt;&lt;ul style="box-sizing: border-box; margin-bottom: 0px; margin-top: 0px; padding-left: 2em;"&gt;&lt;li style="box-sizing: border-box;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Français&lt;/em&gt;&amp;nbsp;&lt;g-emoji alias="fr" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f7.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;🇫🇷&lt;/g-emoji&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Anglais&lt;/em&gt;&amp;nbsp;&lt;g-emoji alias="gb" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ec-1f1e7.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;🇬🇧&lt;/g-emoji&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Allemand&lt;/em&gt;&amp;nbsp;&lt;g-emoji alias="de" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1e9-1f1ea.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;🇩🇪&lt;/g-emoji&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Italien&lt;/em&gt;&amp;nbsp;&lt;g-emoji alias="it" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ee-1f1f9.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;🇮🇹&lt;/g-emoji&gt;&lt;/li&gt;&lt;li style="box-sizing: border-box; margin-top: 0.25em;"&gt;&lt;em style="box-sizing: border-box;"&gt;- Espagnole&lt;/em&gt;&amp;nbsp;&lt;g-emoji alias="es" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1ea-1f1f8.png" ios-version="6.0" style="box-sizing: border-box; font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 18px; line-height: 20px; vertical-align: middle;"&gt;🇪🇸&lt;/g-emoji&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style="-webkit-text-size-adjust: 100%; box-sizing: border-box; color: #333333; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin-bottom: 16px;"&gt;- Exp, Niveau, Or ajouté&lt;/div&gt;&lt;div style="-webkit-text-size-adjust: 100%; box-sizing: border-box; color: #333333; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin-bottom: 16px;"&gt;- Sauvegarde Automatique&lt;/div&gt;&lt;div style="-webkit-text-size-adjust: 100%; box-sizing: border-box; color: #333333; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin-bottom: 16px;"&gt;- Le Bouton Continuer du Menu Pause fonctionne&lt;/div&gt;&lt;div style="-webkit-text-size-adjust: 100%; box-sizing: border-box; color: #333333;
-            font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin-bottom: 16px;"&gt;- Le Numéro de Version est affiche au bas de l’écran d&#39;accueil&lt;/div&gt;&lt;blockquote style="-webkit-text-size-adjust: 100%; border-left-color: rgb(221, 221, 221); border-left-style: solid; border-left-width: 0.25em; box-sizing: border-box; color: #777777; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin: 0px 0px 16px; padding: 0px 1em;"&gt;&lt;div style="box-sizing: border-box;"&gt;Les Boutons pour se donner de l&#39;exp et or sont temporaire&lt;/div&gt;&lt;/blockquote&gt;&lt;br /&gt;&lt;h2 style="border-bottom-color: rgb(238, 238, 238); border-bottom-style: solid; border-bottom-width: 1px; box-sizing: border-box; color: #333333; line-height: 1.25; margin-bottom: 16px; margin-top: 24px; padding-bottom: 0.3em;"&gt;Téléchargement :&lt;/h2&gt;&lt;div style="box-sizing: border-box; color: #333333; font-size: 16px; margin-bottom: 16px;"&gt;&lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20"&gt;GitHub&lt;/a&gt;&lt;/div&gt;</description>
+                &lt;li &gt; Audio 🔊
+                    &lt;ul &gt;
+                        &lt;li &gt; Config (Mono, Stéréo, Surround) &lt;/li&gt;
+                        &lt;li &gt; Musique 🎵 &lt;/li&gt;
+                        &lt;li &gt; Effet 🎼 &lt;/li&gt;
+                        &lt;li &gt; Général 🎶 &lt;/li&gt;
+                    &lt;/ul&gt;
+                &lt;/li&gt;
+                &lt;li &gt;Langues 🏴
+                    &lt;ul &gt;
+                        &lt;li &gt; Français 🇫🇷 &lt;/li &gt;
+                        &lt;li &gt; Anglais 🇬🇧 &lt;/li &gt;
+                        &lt;li &gt; Allemand 🇩🇪 &lt;/li &gt;
+                        &lt;li &gt; Italien 🇮🇹 &lt;/li &gt;
+                        &lt;li &gt; Espagnole 🇪🇸 &lt;/li &gt;
+                    &lt;/ul&gt;
+                &lt;/li&gt;
+            &lt;/ul&gt;
+            
+            &lt;p &gt;- Exp, Niveau, Or ajouté &lt;/p &gt;
+            &lt;p &gt;- Sauvegarde Automatique &lt;/p &gt;
+            &lt;p &gt;- Le Bouton Continuer du Menu Pause fonctionne &lt;/p &gt;
+            &lt;p &gt;- Le Numéro de Version est affiche au bas de l’écran d'accueil &lt;/p &gt;
+            &lt;blockquote <!-- style="-webkit-text-size-adjust: 100%; border-left-color: rgb(221, 221, 221); border-left-style: solid; border-left-width: 0.25em; box-sizing: border-box; color: #777777; font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif, &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;; font-size: 16px; margin: 0px 0px 16px; padding: 0px 1em;"&gt;&lt;div style="box-sizing: border-box;" -->&gt; Les Boutons pour se donner de l'exp et or sont temporaire &lt;/blockquote&gt;
+            &lt;h2 class="h2" &gt; &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20"&gt;GitHub&lt;/a&gt; &lt;/h2&gt;
+            </description>
             <link>https://github.com/06Games/Jeu/releases/tag/0.20</link>
             <author>Evan Galli</author>
             <thr:total>0</thr:total>
