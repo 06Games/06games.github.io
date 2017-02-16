@@ -150,7 +150,11 @@
                 &lt;/li&gt;
                 &lt;li &gt;Langues 🏴
                     &lt;ul &gt;
-                        &lt;li &gt; Français &lt; img class="emoji" alt=":fr:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f7.png" &gt; &lt;/li &gt;
+                        &lt;li &gt; Français 
+                            &lt;g-emoji alias="fr" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f7.png" ios-version="6.0"&gt;
+                                &lt;img class="emoji" alt=":fr:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f1eb-1f1f7.png"&gt; 
+                            &lt;/g-emoji&gt; 
+                        &lt;/li &gt;
                         &lt;li &gt; Anglais 🇬🇧 &lt;/li &gt;
                         &lt;li &gt; Allemand 🇩🇪 &lt;/li &gt;
                         &lt;li &gt; Italien 🇮🇹 &lt;/li &gt;
