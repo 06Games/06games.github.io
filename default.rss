@@ -3,13 +3,13 @@
     <channel>
     <!-- General -->
         <atom:id>tag:blogger.com,1999:blog-1550431503678645524</atom:id>
-        <lastBuildDate>Sat, 04 Feb 2017 11:12:29 +0000</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2017 18:44:29 +0000</lastBuildDate>
         <category>MAJ</category><category>Unity3D</category>
         <title>06Games | RSS</title>
         <description></description>
         <link></link>
         <managingEditor>Evan Galli</managingEditor>
-        <generator>Blogger</generator>
+        <generator>Evan Galli</generator>
         <openSearch:totalResults>4</openSearch:totalResults>
         <openSearch:startIndex>1</openSearch:startIndex>
         <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
@@ -67,6 +67,23 @@
             </style>
 
     <!-- Articles -->
+        <item>      <!-- On est en 0.2.2 ! -->
+            <guid isPermaLink="false"></guid>
+            <pubDate>Wed, 19 Feb 2017 18:45:00 +0000</pubDate>
+            <atom:updated>2017-02-19T19:47:29.591+01:00</atom:updated>
+            <category>MAJ</category>
+            <title>On est en 0.2.2 !</title>
+            <description>
+                <![CDATA[ 
+                    <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/MAJ2.png" />
+                ]]>
+                
+                &lt;p &gt; &lt;/p &gt;
+            </description>
+            <link>https://evangalli17.wixsite.com/06games</link>
+            <author>Evan Galli</author>
+            <thr:total>0</thr:total>
+            </item>
         <item>      <!-- Mise à jour du site -->
             <guid isPermaLink="false"></guid>
             <pubDate>Wed, 15 Feb 2017 18:26:00 +0000</pubDate>
