@@ -1,0 +1,8 @@
+Origin: 06Games Repo
+Label: 06Games Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: (Cydia Description)
