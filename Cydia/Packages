@@ -1,12 +1,12 @@
 Package: (com.yourname.packagename)
-Name: (Tweak Name) 
-Version: (Version Number)
-Size: (Size in Bytes)
+Name: Jeu
+Version: 0.1
+Size: 0k
 Architecture: iphoneos-arm
 Description: (Tweak Description)
-Maintainer: (Name) <email@provider.com>
-Author: (Name) <email@provider.com>
-Section: (Cydia Section)
+Maintainer: EvanG <evan_g@orange.fr>
+Author: EvanG <evan_g@orange.fr>
+Section: Jeux
 MD5sum:
 SHA1sum:
 SHA256sum:
