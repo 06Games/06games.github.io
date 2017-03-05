@@ -1,6 +1,6 @@
 Package: com.06games.github.io.Jeu
-Name: Jeu
-Version: 0.1
+Name: vShare SE
+Version: 4.93Mo
 Size: 0k
 Architecture: iphoneos-arm
 Description: (Tweak Description)
@@ -10,5 +10,5 @@ Section: Jeux
 MD5sum:
 SHA1sum:
 SHA256sum:
-Filename: debs//(Tweak Name).deb
+Filename: debs//vShare SE.ipa
 
