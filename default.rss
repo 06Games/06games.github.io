@@ -65,12 +65,12 @@
             </style>
 
     <!-- Articles -->
-        <item>      <!-- On souhaite la bienvenue à la 0.20.3 ! -->
+        <item>      <!-- Bienvenue la 0.20.3 ! -->
             <guid isPermaLink="false">0.20.3</guid>
             <pubDate>Tue, 07 Mar 2017 18:14:00 GMT</pubDate>
             <atom:updated>2017-03-07T18:14:50.505+01:00</atom:updated>
             <category>MAJ</category>
-            <title> On souhaite la bienvenue à la 0.20.3 !</title>
+            <title> Bienvenue la 0.20.3 !</title>
             <description>
                 <![CDATA[ 
                     <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/MAJ2.png" />
