@@ -1,0 +1,47 @@
+<BOUCLE_accessibilite(MOTS){id_rubrique}{type=Accessibilité}>
+		<BOUCLE_a(RUBRIQUES){id_rubrique}{id_mot}{titre_mot=Administrateur}>
+			<?
+			if ($auteur_session['statut']!='0minirezo'){
+			?>
+			<INCLURE(login_public.php3){id_rubrique}>
+			<?
+			}
+			else {
+			?>
+			<INCLURE(rubrique_ok.php3){id_rubrique}>
+			<?
+			}
+			?>
+		</BOUCLE_a>
+		<BOUCLE_b(RUBRIQUES){id_rubrique}{id_mot}{titre_mot=Rédacteur}>
+			<?
+			if ($auteur_session['statut']!='1comite'&& $auteur_session['statut']!='0minirezo'){
+			?>
+			<INCLURE(login_public.php3){id_rubrique}>
+			<?
+			}
+			else {
+			?>
+			<INCLURE(rubrique_ok.php3){id_rubrique}>
+			<?
+			}
+			?>
+		</BOUCLE_b>
+		<BOUCLE_c(RUBRIQUES){id_rubrique}{id_mot}{titre_mot=Visiteur}{lang_select=non}>
+			<?
+			if ($auteur_session['statut']!='6forum'&&$auteur_session['statut']!='1comite'&& $auteur_session['statut']!='0minirezo'){
+			?>
+			<INCLURE(login_public.php3){id_rubrique}>
+			<?
+			}
+			else {
+			?>
+			<INCLURE(rubrique_ok.php3){id_rubrique}>
+			<?
+			}
+			?>
+		</BOUCLE_c>
+	</BOUCLE_accessibilite>
+<INCLURE(rubrique_ok.php3){id_rubrique}>
+<//B_accessibilite>
+</code>

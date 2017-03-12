@@ -1,0 +1,47 @@
+<BOUCLE_accessibilite(MOTS){id_article}{type=Accessibilité}>
+		<BOUCLE_a(ARTICLES){id_article}{id_mot}{titre_mot=Administrateur}>
+			<?
+			if ($auteur_session['statut']!='0minirezo'){
+			?>
+			<INCLURE(login_public.php3){id_article}>
+			<?
+			}
+			else {
+			?>
+			<INCLURE(article_ok.php3){id_article}>
+			<?
+			}
+			?>
+		</BOUCLE_a>
+		<BOUCLE_b(ARTICLES){id_article}{id_mot}{titre_mot=Rédacteur}>
+			<?
+			if ($auteur_session['statut']!='1comite'&& $auteur_session['statut']!='0minirezo'){
+			?>
+			<INCLURE(login_public.php3){id_article}>
+			<?
+			}
+			else {
+			?>
+			<INCLURE(article_ok.php3){id_article}>
+			<?
+			}
+			?>
+		</BOUCLE_b>
+		<BOUCLE_c(ARTICLES){id_article}{id_mot}{titre_mot=Visiteur}{lang_select=non}>
+			<?
+			if ($auteur_session['statut']!='6forum'&&$auteur_session['statut']!='1comite'&& $auteur_session['statut']!='0minirezo'){
+			?>
+			<INCLURE(login_public.php3){id_article}>
+			<?
+			}
+			else {
+			?>
+			<INCLURE(article_ok.php3){id_article}>
+			<?
+			}
+			?>
+		</BOUCLE_c>
+	</BOUCLE_accessibilite>
+<INCLURE(article_ok.php3){id_article}>
+<//B_accessibilite>
+</code>
