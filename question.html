@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>Formulaire</title>
+        <meta charset="UTF-8">
+        <link rel="icon" type="image/x-icon" href="asset\favicon.ico"/>
+    </head>
+
+    <style>
+        input:invalid {
+        border: 1px solid red;
+        }
+
+        input:valid {
+        border: 1px solid green;
+        }
+    </style>
+
+    <body>
+
+        <form method="post" action="formulaire-simple.cgi">
+        <H2>I. Vous</H2>
+        <p>Quel est votre prénom ? <input name="prenom" required> </p>
+        <p> Quel est votre nom ? <input name="nom" required> </p>
+
+        <p>Etes-vous membre de 06Games ?
+        <input type="radio" name="Dans06Games" value="oui" checked required> Oui
+        ou
+        <input type="radio" name="Dans06Games" value="non" required> Non
+        </p>
+
+        <p> Que faites-vous ?
+            <select name="Travail" required>
+                <option selected>Rien (Je n'en fais pas partie)
+                <option>Programmeur
+                <option>Graphiste Unity
+                <option>Graphiste Cinema 4D
+                <option>Testeur
+                <option>Rien Actuellement (Mais J'en fais partie)
+            </select>
+        </p>
+
+        
+
+
+        <p>Veuillez expliquer brièvement ci-dessous le choix que vous venez de faire :
+        <input name="message" size=60,5 required></p>
+
+        <HR>
+
+        <p>Cliquez sur <input type="submit" value="Valider"> pour soumettre votre requête,
+        sinon <input type="reset" value="Annuler"> </p>
+        </form>
+
+
+        <address>Evan Galli / <a href="mailto:evan_g@orange.fr">Contact</a></address>
+        <p><b>Date:</b> 11/03/2017</p>
+
+
+    </body>
+</html>
