@@ -1,0 +1,19 @@
+{
+    "remotePath": "./storage/h5/025/1064025",
+    "host": "files.000webhost.com",
+    "username": "06games",
+    "password": "evan17",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ]
+}
