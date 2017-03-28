@@ -65,10 +65,26 @@
             </style>
 
     <!-- Articles -->
+        <item>      <!-- La 0.20.4 se prépare ! -->
+            <guid isPermaLink="false">0.20.3</guid>
+            <pubDate>Tue, 07 Mar 2017 18:14:00 GMT</pubDate>
+            <category>MAJ</category>
+            <title> La 0.20.4 se prépare !</title>
+            <description>
+                <![CDATA[ 
+                    <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/MAJ2.png" />
+                ]]>
+                
+                Rester au fil de l'actualité, et vous serez les premier informer !
+                <i>Evan G</i>
+            </description>
+            <link>https://github.com/06Games/Jeu/releases/tag/0.20.3</link>
+            <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
+            <thr:total>0</thr:total>
+            </item>
         <item>      <!-- Bienvenue la 0.20.3 ! -->
             <guid isPermaLink="false">0.20.3</guid>
             <pubDate>Tue, 07 Mar 2017 18:14:00 GMT</pubDate>
-            <atom:updated>2017-03-07T18:14:50.505+01:00</atom:updated>
             <category>MAJ</category>
             <title> Bienvenue la 0.20.3 !</title>
             <description>
@@ -99,7 +115,6 @@
         <item>      <!-- On est en 0.2.2 ! -->
             <guid isPermaLink="false"></guid>
             <pubDate>Wed, 19 Feb 2017 18:45:00 +0000</pubDate>
-            <atom:updated>2017-02-19T19:47:29.591+01:00</atom:updated>
             <category>MAJ</category>
             <title>On est en 0.2.2 !</title>
             <description>
