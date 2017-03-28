@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
     <!-- General -->
         <lastBuildDate>Sun, 19 Feb 2017 18:44:29 +0000</lastBuildDate>
@@ -79,7 +79,7 @@
                 &lt;blockquote class="blockquote" &gt; On y fait un &lt;a href="https://evangalli17.wixsite.com/06games"&gt; tour &lt;/a &gt; ? &lt;/blockquote &gt;
             </description>
             <link>https://evangalli17.wixsite.com/06games</link>
-            <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
+            <author>evan_g@orange.fr (Evan Galli)</author>
             </item>
         <item>      <!-- La 0.20.4 se prépare ! -->
             <guid isPermaLink="false">La 0.20.4 se prépare !</guid>
@@ -95,7 +95,7 @@
                 &lt;i &gt; Evan G &lt;/i &gt;
             </description>
             <link>https://github.com/06Games/Jeu/releases/tag/0.20.3</link>
-            <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
+            <author>evan_g@orange.fr (Evan Galli)</author>
             </item>
         <item>      <!-- Bienvenue la 0.20.3 ! -->
             <guid isPermaLink="false">0.20.3</guid>
@@ -124,7 +124,7 @@
                 &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20.3" &gt; GitHub &lt;/a &gt;
             </description>
             <link>https://github.com/06Games/Jeu/releases/tag/0.20.3</link>
-            <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
+            <author>evan_g@orange.fr (Evan Galli)</author>
             </item>
         <item>      <!-- On est en 0.2.2 ! -->
             <guid isPermaLink="false">On est en 0.2.2 !</guid>
@@ -161,7 +161,7 @@
                     &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20.2" &gt; GitHub &lt;/a &gt;
             </description>
             <link>https://github.com/06Games/Jeu/releases/tag/0.20.2</link>
-            <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
+            <author>evan_g@orange.fr (Evan Galli)</author>
             </item>
         <item>      <!-- Mise à jour du site -->
             <guid isPermaLink="false">Mise à jour du site</guid>
@@ -176,7 +176,7 @@
                 &lt;p &gt; Le Site à été mis à jour, &lt;a href="https://evangalli17.wixsite.com/06games"&gt; voyez par vous même &lt;/a &gt; &lt;/p &gt;
             </description>
             <link>https://evangalli17.wixsite.com/06games</link>
-            <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
+            <author>evan_g@orange.fr (Evan Galli)</author>
             </item>
         <item>      <!-- 06Games App arrive sur iOS -->
             <guid isPermaLink="false">06Games App arrive sur iOS</guid>
@@ -192,7 +192,7 @@
                 &lt;p &gt; Vous pouvez aussi télécharger l'application pour les plateformes &lt;a href ="https://06games.github.io/wiki/Public/App" &gt; Windows et Android&lt;/a &gt; &lt;/p &gt;
             </description>
             <link>https://06games.github.io/wiki/Public/App</link>
-            <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
+            <author>evan_g@orange.fr (Evan Galli)</author>
             </item> 
         <item>      <!-- La 0.2.1 Musicale -->
             <guid isPermaLink="false">La 0.2.1 Musicale</guid>
@@ -220,7 +220,7 @@
                     &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20.1" &gt; GitHub &lt;/a &gt;
             </description>
             <link>https://github.com/06Games/Jeu/releases/tag/0.20.1</link>
-            <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
+            <author>evan_g@orange.fr (Evan Galli)</author>
             </item>
         <item>      <!-- La 0.2 est de sortie -->
             <guid isPermaLink="false">La 0.2 est de sortie</guid>
@@ -271,7 +271,7 @@
             &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20"&gt; GitHub &lt;/a&gt;
             </description>
             <link>https://github.com/06Games/Jeu/releases/tag/0.20</link>
-            <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
+            <author>evan_g@orange.fr (Evan Galli)</author>
             </item>
 
         <item>      <!-- La 0.16 Est Sortie ! -->
@@ -291,7 +291,7 @@
                 &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.16"&gt; GitHub &lt;/a&gt;
             </description>
             <link>https://github.com/06Games/Jeu/releases/tag/0.16</link>
-            <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
+            <author>evan_g@orange.fr (Evan Galli)</author>
             </item>
 
         <item>      <!-- La 0.15 Est Ici ! -->
@@ -322,7 +322,7 @@
             &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.15"&gt;GitHub&lt;/a&gt;
             </description>
             <link>https://github.com/06Games/Jeu/releases/tag/0.15</link>
-            <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
+            <author>evan_g@orange.fr (Evan Galli)</author>
             </item>
 
         <item>      <!-- Changement de Version d'Unity 3D -->
@@ -339,7 +339,7 @@
                 &lt;p &gt; Unity est dorénavant en 5.4.2f2 &lt;/p&gt;
             </description>
             <link>http://06gamesgeneral.blogspot.com/2017/02/changement-de-version-dunity-3d.html</link>
-            <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
+            <author>evan_g@orange.fr (Evan Galli)</author>
             </item>
     </channel>
 </rss>
