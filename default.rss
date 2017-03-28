@@ -66,7 +66,7 @@
 
     <!-- Articles -->
         <item>      <!-- Un site mis à jour ! -->
-            <guid isPermaLink="false"></guid>
+            <guid isPermaLink="false">Un site mis à jour !</guid>
             <pubDate>Wed, 15 Feb 2017 18:26:00 +0000</pubDate>
             <atom:updated>2017-02-15T19:47:29.591+01:00</atom:updated>
             <category>MAJ-Site</category>
@@ -88,7 +88,7 @@
             <thr:total>0</thr:total>
             </item>
         <item>      <!-- La 0.20.4 se prépare ! -->
-            <guid isPermaLink="false">0.20.3</guid>
+            <guid isPermaLink="false">La 0.20.4 se prépare !</guid>
             <pubDate>Tue, 07 Mar 2017 18:14:00 GMT</pubDate>
             <category>MAJ</category>
             <title> La 0.20.4 se prépare !</title>
@@ -135,7 +135,7 @@
             <thr:total>0</thr:total>
             </item>
         <item>      <!-- On est en 0.2.2 ! -->
-            <guid isPermaLink="false"></guid>
+            <guid isPermaLink="false">On est en 0.2.2 !</guid>
             <pubDate>Wed, 19 Feb 2017 18:45:00 +0000</pubDate>
             <category>MAJ</category>
             <title>On est en 0.2.2 !</title>
@@ -173,7 +173,7 @@
             <thr:total>0</thr:total>
             </item>
         <item>      <!-- Mise à jour du site -->
-            <guid isPermaLink="false"></guid>
+            <guid isPermaLink="false">Mise à jour du site</guid>
             <pubDate>Wed, 15 Feb 2017 18:26:00 +0000</pubDate>
             <atom:updated>2017-02-15T19:47:29.591+01:00</atom:updated>
             <category>MAJ-Site</category>
@@ -190,7 +190,7 @@
             <thr:total>0</thr:total>
             </item>
         <item>      <!-- 06Games App arrive sur iOS -->
-            <guid isPermaLink="false"></guid>
+            <guid isPermaLink="false">06Games App arrive sur iOS</guid>
             <pubDate>Sun, 12 Feb 2017 19:45:00 +0000</pubDate>
             <atom:updated>2017-02-12T19:45:00.000+01:00</atom:updated>
             <category>App</category>
@@ -203,12 +203,12 @@
                 &lt;p &gt; Vous pouvez dorénavant télécharger l'application 06Games sur iOS sur &lt;a href="http://apps.appshed.com/960444/"&gt; ce lien &lt;/a &gt; &lt;/p &gt;
                 &lt;p &gt; Vous pouvez aussi télécharger l'application pour les plateformes &lt;a href ="https://06games.github.io/wiki/Public/App" &gt; Windows et Android&lt;/a &gt; &lt;/p &gt;
             </description>
-            <link></link>
+            <link>https://06games.github.io/wiki/Public/App</link>
             <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
             <thr:total>0</thr:total>
             </item> 
         <item>      <!-- La 0.2.1 Musicale -->
-            <guid isPermaLink="false"></guid>
+            <guid isPermaLink="false">La 0.2.1 Musicale</guid>
             <pubDate>Wed, 08 Feb 2017 19:47:00 +0000</pubDate>
             <atom:updated>2017-02-04T19:47:00.000+01:00</atom:updated>
             <category>MAJ</category>
@@ -238,7 +238,7 @@
             <thr:total>0</thr:total>
             </item>
         <item>      <!-- La 0.2 est de sortie -->
-            <guid isPermaLink="false">tag:blogger.com,1999:blog-1550431503678645524.post-5283694754596064669</guid>
+            <guid isPermaLink="false">La 0.2 est de sortie</guid>
             <pubDate>Wed, 01 Feb 2017 15:00:00 +0000</pubDate>
             <atom:updated>2017-02-04T08:03:29.591+01:00</atom:updated>
             <category>MAJ</category>
@@ -292,7 +292,7 @@
             </item>
 
         <item>      <!-- La 0.16 Est Sortie ! -->
-            <guid isPermaLink="false"></guid>
+            <guid isPermaLink="false">La 0.16 Est Sortie !</guid>
             <pubDate>Wed, 25 Jan 2017 15:00:00 +0000</pubDate>
             <atom:updated>2017-02-04T08:34:42.302+01:00</atom:updated>
             <category>MAJ</category>
@@ -314,7 +314,7 @@
             </item>
 
         <item>      <!-- La 0.15 Est Ici ! -->
-            <guid isPermaLink="false">tag:blogger.com,1999:blog-1550431503678645524.post-4064640965142608329</guid>
+            <guid isPermaLink="false">La 0.15 Est Ici !</guid>
             <pubDate>Sat, 21 Jan 2017 15:00:00 +0000</pubDate>
             <atom:updated>2017-02-04T08:34:54.699+01:00</atom:updated>
             <category>MAJ</category>
@@ -347,7 +347,7 @@
             </item>
 
         <item>      <!-- Changement de Version d'Unity 3D -->
-            <guid isPermaLink="false">tag:blogger.com,1999:blog-1550431503678645524.post-3928694408582143909</guid>
+            <guid isPermaLink="false">Changement de Version d'Unity 3D</guid>
             <pubDate>Sat, 21 Jan 2017 07:32:00 +0000</pubDate>
             <atom:updated>2017-02-04T12:12:29.680+01:00</atom:updated>
             <category>Unity3D</category>
