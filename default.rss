@@ -7,9 +7,6 @@
         <title>06Games | RSS</title>
         <description></description>
         <link>https://06games.github.io/default.rss</link>
-        <openSearch:totalResults>4</openSearch:totalResults>
-        <openSearch:startIndex>1</openSearch:startIndex>
-        <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
         <style>
             .h2{
                 -webkit-text-size-adjust: 100%;
