@@ -65,6 +65,23 @@
             </style>
 
     <!-- Articles -->
+        <item>      <!-- Un site mis à jour ! -->
+            <guid isPermaLink="false"></guid>
+            <pubDate>Wed, 15 Feb 2017 18:26:00 +0000</pubDate>
+            <atom:updated>2017-02-15T19:47:29.591+01:00</atom:updated>
+            <category>MAJ-Site</category>
+            <title>Mise à jour du site</title>
+            <description>
+                <![CDATA[ 
+                    <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/MAJ-web.png" />
+                ]]>
+                
+                &lt;p &gt; Le Site à été mis à jour, &lt;a href="https://evangalli17.wixsite.com/06games"&gt; voyez par vous même &lt;/a &gt; &lt;/p &gt;
+            </description>
+            <link>https://evangalli17.wixsite.com/06games</link>
+            <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
+            <thr:total>0</thr:total>
+            </item>
         <item>      <!-- La 0.20.4 se prépare ! -->
             <guid isPermaLink="false">0.20.3</guid>
             <pubDate>Tue, 07 Mar 2017 18:14:00 GMT</pubDate>
@@ -76,7 +93,7 @@
                 ]]>
                 
                 Rester au fil de l'actualité, et vous serez les premier informer !
-                <i>Evan G</i>
+                &lt;i &gt; Evan G &lt;/i &gt;
             </description>
             <link>https://github.com/06Games/Jeu/releases/tag/0.20.3</link>
             <author>Evan Galli &lt;evan_g@orange.fr&gt;</author>
