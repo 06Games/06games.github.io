@@ -60,9 +60,25 @@
             </style>
 
     <!-- Articles -->
+        <item>      <!-- La 0.20.4 est là ! -->
+            <guid isPermaLink="false">La 0.20.4 est là !</guid>
+            <pubDate>Wed, 29 Mar 2017 20:30:00 GMT</pubDate>
+            <category>MAJ</category>
+            <title> La 0.20.4 est là !</title>
+            <description>
+                <![CDATA[ 
+                    <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/MAJ2.png" />
+                ]]>
+                
+                &lt;h2 class="h2" &gt; Telechargement: &lt;/h2 &gt;
+                &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20.4" &gt; GitHub &lt;/a &gt;
+            </description>
+            <link>https://github.com/06Games/Jeu/releases/tag/0.20.4</link>
+            <author>evan_g@orange.fr (Evan Galli)</author>
+            </item>
         <item>      <!-- Un site mis à jour ! -->
             <guid isPermaLink="false">Un site mis à jour !</guid>
-            <pubDate>Wed, 15 Feb 2017 18:26:00 +0000</pubDate> 
+            <pubDate>Tue, 28 Feb 2017 18:26:00 +0000</pubDate> 
             <category>MAJ-Site</category>
             <title>Un site mis à jour !</title>
             <description>
@@ -82,7 +98,7 @@
             </item>
         <item>      <!-- La 0.20.4 se prépare ! -->
             <guid isPermaLink="false">La 0.20.4 se prépare !</guid>
-            <pubDate>Tue, 07 Mar 2017 18:14:00 GMT</pubDate>
+            <pubDate>Tue, 28 Mar 2017 18:00:00 GMT</pubDate>
             <category>MAJ</category>
             <title> La 0.20.4 se prépare !</title>
             <description>
