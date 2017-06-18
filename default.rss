@@ -60,6 +60,25 @@
             </style>
 
     <!-- Articles -->
+        <item>      <!-- Je suis de retour et pas tout seul ! -->
+            <guid isPermaLink="false">Je suis de retour et pas tout seul !</guid>
+            <pubDate>Sun, 18 Jun 2017 18:00:00 GMT</pubDate>
+            <category>MAJ</category>
+            <title>Je suis de retour et pas tout seul !</title>
+            <description>
+                <![CDATA[ 
+                    <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/MAJ2.png" />
+                ]]>
+                &lt;p&gt;Je suis enfin de retour sur l'actualité 06Games App&lt;/p&gt;
+                &lt;HR&gt;
+                &lt;p&gt;C'est l'anniversaire du jeu !&lt;/p&gt;
+
+                &lt;h2 class="h2" &gt; Telechargement: &lt;/h2 &gt;
+                &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20.13" &gt; GitHub &lt;/a &gt;
+            </description>
+            <link>https://github.com/06Games/Jeu/releases/tag/0.20.4</link>
+            <author>evan_g@orange.fr (Evan Galli)</author>
+            </item>
         <item>      <!-- La 0.20.4 est là ! -->
             <guid isPermaLink="false">La 0.20.4 est là !</guid>
             <pubDate>Wed, 29 Mar 2017 20:30:00 GMT</pubDate>
