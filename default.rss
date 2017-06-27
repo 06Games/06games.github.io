@@ -62,6 +62,25 @@
     <!-- Articles -->
         <item>      <!-- Je suis de retour et pas tout seul ! -->
             <guid isPermaLink="false">Je suis de retour et pas tout seul !</guid>
+            <pubDate>Tue, 27 Jun 2017 19:56:41 GMT</pubDate>
+            <category>MAJ</category>
+            <title>La 0.20.15, grosse maj</title>
+            <description>
+                <![CDATA[ 
+                    <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/MAJ2.png" />
+                ]]>
+                &lt;p&gt;Une nouvelle mise à jour plein en nouveauté&lt;/p&gt;
+                &lt;HR&gt;
+                &lt;p&gt;C'est l'anniversaire du jeu !&lt;/p&gt;
+
+                &lt;h2 class="h2" &gt; Telechargement: &lt;/h2 &gt;
+                &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20.15" &gt; GitHub &lt;/a &gt;
+            </description>
+            <link>https://github.com/06Games/Jeu/releases/tag/0.20.15</link>
+            <author>evan_g@orange.fr (Evan Galli)</author>
+            </item>
+        <item>      <!-- Je suis de retour et pas tout seul ! -->
+            <guid isPermaLink="false">Je suis de retour et pas tout seul !</guid>
             <pubDate>Sun, 18 Jun 2017 16:21:41 GMT</pubDate>
             <category>MAJ</category>
             <title>Je suis de retour et pas tout seul !</title>
