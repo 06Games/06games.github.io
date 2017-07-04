@@ -61,6 +61,23 @@
 
     <!-- Articles -->
         <item>      <!-- La 0.20.15, grosse maj -->
+            <guid isPermaLink="false">La 0.20.17, Maj des langues</guid>
+            <pubDate>Tue, 04 Jul 2017 12:16:26 GMT</pubDate>
+            <category>MAJ</category>
+            <title>La 0.20.17, Maj des langues</title>
+            <description>
+                <![CDATA[ 
+                    <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/MAJ2.png" />
+                ]]>
+                &lt;p&gt;Une nouvelle mise à jour qui modifie entièrement le fonctionnement des langues&lt;/p&gt;
+
+                &lt;h2 class="h2" &gt; Telechargement: &lt;/h2 &gt;
+                &lt;a href="https://github.com/06Games/Jeu/releases/tag/0.20.17" &gt; GitHub &lt;/a &gt;
+            </description>
+            <link>https://github.com/06Games/Jeu/releases/tag/0.20.17</link>
+            <author>evan_g@orange.fr (Evan Galli)</author>
+            </item>
+        <item>      <!-- La 0.20.15, grosse maj -->
             <guid isPermaLink="false">La 0.20.15, grosse maj</guid>
             <pubDate>Tue, 27 Jun 2017 17:56:41 GMT</pubDate>
             <category>MAJ</category>
