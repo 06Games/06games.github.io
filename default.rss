@@ -60,6 +60,20 @@
             </style>
 
     <!-- Articles -->
+        <item>      <!-- Changement de Version d'Unity 3D -->
+            <guid isPermaLink="false">Changement de Version d'Unity 3D 2017.1.1</guid>
+            <pubDate>Sat, 21 Jan 2017 07:32:00 +0000</pubDate>
+            <category>Unity3D</category>
+            <title>Changement de Version d&#39;Unity 3D</title>
+            <description>
+                <![CDATA[ 
+                    <img style="width:50px; height:50px;" src="https://06games.github.io/RSS/Unity.jpg" />
+                ]]>
+                &lt;p &gt; Unity est dorénavant en 2017.1.1p3 &lt;/p&gt;
+            </description>
+            <link></link>
+            <author>evan_g@orange.fr (Evan Galli)</author>
+            </item>
         <item>      <!-- La 0.20.15, grosse maj -->
             <guid isPermaLink="false">La 0.20.17, Maj des langues</guid>
             <pubDate>Tue, 04 Jul 2017 12:16:26 GMT</pubDate>
