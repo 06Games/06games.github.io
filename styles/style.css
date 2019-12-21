@@ -1,0 +1,55 @@
+body {
+  min-width: 350px;
+}
+
+.head {
+  display: flex;
+  margin-bottom: 1.5rem;
+}
+.head > * {
+  display: block;
+}
+.head img {
+  width: 65px;
+  height: 65px;
+  margin-right: 1em;
+  border-radius: 25%;
+}
+
+@media (min-width: 392px) {
+  #profile img {
+    display: block;
+  }
+}
+@media (max-width: 425px) {
+  .head img {
+    display: none;
+  }
+}
+
+@media (max-width: 1200px) {
+  .container .tile:not(.is-child) {
+    display: block;
+  }
+}
+.container .tile.is-child {
+  position: relative;
+}
+.container .content {
+  margin-bottom: calc(1.5rem + 40px);
+}
+.container .info {
+  height: 40px;
+  position: absolute;
+  bottom: 1.25rem;
+  width: calc(100% - 2.5rem);
+}
+.container .info .links {
+  font-size: 25px;
+  float: right;
+}
+.container .info .versions {
+  font-weight: 300;
+  margin-top: 5px;
+  position: absolute;
+}
