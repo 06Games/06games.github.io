@@ -2,6 +2,11 @@ body {
   min-width: 350px;
 }
 
+a.button svg {
+  margin-right: 3px;
+  margin-top: 2px;
+}
+
 .head {
   display: flex;
   margin-bottom: 1.5rem;
