@@ -21,7 +21,9 @@
 				$isLight = $("#theme").hasClass("light");
 				changeTheme($isLight ? "dark" : "light");
 			});
-			changeTheme(getCookie("theme"));
+			
+			$theme = getCookie("theme");
+			changeTheme($theme == "" ? "light" : $theme);
 		});
 		
 		function changeTheme($theme){
