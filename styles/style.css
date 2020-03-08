@@ -1,6 +1,7 @@
 body {
   min-width: 350px;
   background: white;
+  min-height: 100vh;
 }
 
 a.button svg {
@@ -31,6 +32,20 @@ a.button svg {
   .head img {
     display: none;
   }
+}
+
+section.container h3{
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
+section.container h3::before{
+	font-family: FontAwesome;
+	padding-right: 3px;
+	content: '\f078';
+}
+section.container h3.hidden::before{
+	content: '\f077';
 }
 
 @media (max-width: 1200px) {

@@ -57,6 +57,24 @@
 		#theme.light .fa-sun{ display: none; }
 		#theme.dark .fa-moon{ display: none; }
 	</style>
+	
+	<!-- Fold/Unfold -->
+	<script>
+		$(document).ready(function() {
+			$('section.container h3').click(function() {
+				$content = $(this).siblings('.is-ancestor');
+				if($content.is(":hidden")) {
+					$content.slideDown();
+					$(this).removeClass('hidden');
+				}
+				else {
+					$content.slideUp();
+					$(this).addClass('hidden');
+				}
+			});
+		});
+	</script>
+</head>  
 <body>
 	<a id="theme" class="light">
 		<i class="fas fa-moon"></i>
