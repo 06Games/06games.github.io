@@ -1,0 +1,38 @@
+body{    
+	background-color: #222;
+}
+a:hover {
+    color: #bbb;
+}
+
+.title{
+	color: #ddd;
+}
+.subtitle{
+	color: #bbb;
+}
+.button.is-link.is-light {
+    background-color: #3273dc;
+	border-color: transparent;
+	color: #fff;
+}
+.button.is-link.is-light:hover {
+    background-color: #276cda;
+	color: #fff;
+}
+
+.box{
+	background-color: #333;
+	color: #eee;
+}
+
+.hero.is-light{
+	background-color: #262626;
+	color: #fff;
+}
+.hero.is-light .title {
+    color: rgba(255, 255, 255, 0.7);
+}
+.hero.is-light .subtitle{
+	color: #fff;
+}

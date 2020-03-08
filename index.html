@@ -7,12 +7,61 @@
     <title>EvanG</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
     <link rel="stylesheet" href="styles/style.css">
+    <link rel="icon" type="image/png" href="images/profile.png" />
+	
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
     <script src="https://kit.fontawesome.com/83da1b8f9f.js" crossorigin="anonymous"></script>
-    <link rel="icon" type="image/png" href="images/profile.png" />
-</head>
-
+	
+	<!-- Themes -->
+	<link id="css-theme" rel="stylesheet" href="styles/dark.css" disabled>
+	<script>
+		$(document).ready(function() {
+			$("#theme").click(function (){
+				$isLight = $("#theme").hasClass("light");
+				changeTheme($isLight ? "dark" : "light");
+			});
+			changeTheme(getCookie("theme"));
+		});
+		
+		function changeTheme($theme){
+				$("#theme").removeClass();
+				$("#theme").addClass($theme);
+				$('#css-theme').prop("disabled", $theme == "light");
+				document.cookie = "theme=" + $theme;
+		}
+		
+		function getCookie(cname) {
+		  var name = cname + "=";
+		  var decodedCookie = decodeURIComponent(document.cookie);
+		  var ca = decodedCookie.split(';');
+		  for(var i = 0; i <ca.length; i++) {
+			var c = ca[i];
+			while (c.charAt(0) == ' ') {
+			  c = c.substring(1);
+			}
+			if (c.indexOf(name) == 0) {
+			  return c.substring(name.length, c.length);
+			}
+		  }
+		  return "";
+		}
+	</script>
+	<style>
+		#theme{
+			position: fixed; 
+			top: 5px; 
+			right: 10px; 
+			font-size: 1.5em;
+		}
+		#theme.light .fa-sun{ display: none; }
+		#theme.dark .fa-moon{ display: none; }
+	</style>
 <body>
+	<a id="theme" class="light">
+		<i class="fas fa-moon"></i>
+		<i class="fas fa-sun"></i>
+	</a>
     <section class="hero is-light">
         <div class="hero-body">
             <div class="container is-fluid">
@@ -200,5 +249,4 @@
         </div>
     </section>
 </body>
-
 </html>
