@@ -54,16 +54,19 @@ section.container h3.hidden::before{
   }
 }
 .container .tile.is-child {
-  position: relative;
+  display: flex;
+  flex-direction: column;
 }
-.container .content {
-  margin-bottom: calc(1.5rem + 40px);
+.container .content {    
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.container .content p{
+  flex: 1;
 }
 .container .info {
   height: 40px;
-  position: absolute;
-  bottom: 1.25rem;
-  width: calc(100% - 2.5rem);
 }
 .container .info .links {
   font-size: 25px;
@@ -71,6 +74,5 @@ section.container h3.hidden::before{
 }
 .container .info .versions {
   font-weight: 300;
-  margin-top: 5px;
-  position: absolute;
+  line-height: 40px;
 }
